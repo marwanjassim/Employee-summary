@@ -1,6 +1,6 @@
 My Emoplyee Summary will allow managers, to track their employees more effectivly and efficintly it will show the employees info, 
 # images
-![Main Page](main.png)
+![Main Page](main_page.png)
 
 # Built With
 Node.js
